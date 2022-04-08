@@ -81,5 +81,4 @@ body {
 
 .container:hover .fa-share-nodes {
    transform: translateX(-50px)translateY(-50px);
-   ;
 }
